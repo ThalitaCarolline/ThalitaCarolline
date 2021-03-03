@@ -10,5 +10,5 @@ Meu nome é Thalita Carolline, sou iniciante em programação Front-end.
 
 
 
-![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=ThalitaCarolline&show_icons=true&count_private=true&theme=dracula)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThalitaCarolline&layout=compact&theme=dracula)
+![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=ThalitaCarolline&show_icons=true&count_private=true&theme=dracula)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThalitaCarolline&layout=compact&theme=dracula {width=40px height=400px})
 
