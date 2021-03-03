@@ -4,7 +4,7 @@ Meu nome é Thalita Carolline, sou iniciante em programação Front-end.
 
 
 
-- 🌱 Atualmente estou estudando HMTL, CSS, JavaScript e TypeScript.
+- 🌱 Atualmente estou aprendendo HMTL, CSS, JavaScript, ReactJS e TypeScript.
 - 🎓 Atualmente estou cursando Bacharelado em Tecnologia da Informação.
 
 
