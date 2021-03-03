@@ -7,10 +7,8 @@ Meu nome é Thalita Carolline, sou iniciante em programação Front-end
 - 🎓 Atualmente estou cursando Bacharelado em Tecnologia da Informação.
 
 
+![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=ThalitaCarolline&show_icons=true&count_private=true&theme=dracula)
 
 
-https://github-readme-stats.vercel.app/api?username=ThaliraCarolline&showicons=true&countprivate=true&theme=dracula
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThalitaCarollinef&exclude_repo=cem_clipnet&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=ThalitaCarolline&excluderepo=cemclipnet&layout=compact&theme=dracula 
-
-https://github.com/anuraghazra/github-readme-stats)
