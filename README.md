@@ -3,7 +3,7 @@
 Meu nome é Thalita Carolline, sou iniciante em programação Front-end.
 
 
-<img src="https://acegif.com/wp-content/uploads/cat-typing-1.gif" width="200" height="200" style="position: absolute; top: 0px; left: 0px;">
+
 
 
 
